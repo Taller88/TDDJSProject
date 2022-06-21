@@ -1,0 +1,19 @@
+{
+  "name": "tddjsproject",
+  "version": "1.0.0",
+  "description": "lecture for inflearn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taller88/TDDJSProject.git"
+  },
+  "author": "JJW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Taller88/TDDJSProject/issues"
+  },
+  "homepage": "https://github.com/Taller88/TDDJSProject#readme"
+}
